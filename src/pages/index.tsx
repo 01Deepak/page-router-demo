@@ -23,6 +23,12 @@ export default function Home() {
       <li>
         <Link href='/clients'>Clients</Link>
       </li>
+      <li>
+        <Link href='/posts'>Posts</Link>
+      </li>
+      <li>
+        <Link href='/form'>form</Link>
+      </li>
      </ul>
     </>
   )
